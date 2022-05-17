@@ -37,4 +37,5 @@ int get_error(data_shell *datash, int eval)
 
 	datash->status = eval;
 	return (eval);
+
 }
