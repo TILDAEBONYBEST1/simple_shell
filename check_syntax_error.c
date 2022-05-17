@@ -6,6 +6,7 @@
  * @input: input string
  * @i: index
  * Return: repetitions
+ 
  */
 int repeated_char(char *input, int i)
 {
