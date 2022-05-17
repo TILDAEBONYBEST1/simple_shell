@@ -6,6 +6,7 @@
  * @head: head of the linked list.
  * @sep: separator found (; | &).
  * Return: address of the head.
+ 
  */
 sep_list *add_sep_node_end(sep_list **head, char sep)
 {
